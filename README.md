@@ -82,6 +82,7 @@
 
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.06|Harnessing Streaming Video in the Wild|[[pdf]](https://arxiv.org/pdf/2606.08615v1)| - |Training Objective Targeting </silence> </response> |
 |2026.04|AURA: Always-On Understanding and Real-Time Assistance via Video Streams|[[pdf]](https://arxiv.org/pdf/2604.04184)|[[GitHub]](https://github.com/aurateam2026/AURA) ![](https://img.shields.io/github/stars/aurateam2026/AURA.svg?style=social)|Unified \<\|silent\|\> Token for Silent Observation with Real-Time QA / Proactive QA / Multi-Response QA; Silent-Speech Balanced Loss |
 |2026.03|STRIDE: When to Speak Meets Sequence Denoising for Streaming Video Understanding|[[pdf]](https://arxiv.org/pdf/2603.27593)|[[GitHub]](https://github.com/interlive-team/STRIDE) ![](https://img.shields.io/github/stars/interlive-team/STRIDE.svg?style=social)|Activation Token Denoising over 0/1/[M]; Sequence Duplication; Selective Re-masking|
 |2025.12|Streaming Video Instruction Tuning|[[pdf]](https://arxiv.org/pdf/2512.21334)|[[GitHub]](https://github.com/maifoundations/Streamo) ![](https://img.shields.io/github/stars/maifoundations/Streamo.svg?style=social)|Three-State Response Tokens (\</Silence\>, \</Standby\>,\</Response\>) via Unified Next-Token Prediction; Focal Loss for Response Imbalance |
@@ -132,6 +133,7 @@
 
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.06|Harnessing Streaming Video in the Wild|[[pdf]](https://arxiv.org/pdf/2606.08615v1)| - |short-term memory; mid-term memory; long-term memory; enabling up to 12 hours of context |
 |2026.05|StreamOV: Streaming Omni-Video Understanding via Evidence-Guided Memory and Response Triggering|[[pdf]](https://arxiv.org/pdf/2605.25621)|-|Multimodal evidence-guided long-short term memory with dense recent observations and sparse historical evidence under a fixed budget |
 |2026.04|Progressive Online Video Understanding with Evidence-Aligned Timing and Transparent Decisions|[[pdf]](https://arxiv.org/pdf/2604.18459)|-|Hierarchical Progressive Semantic Integration (HPSI) with Learnable Multi-Level Aggregation Tokens Propagated across Clips |
 |2026.03|CurveStream: Boosting Streaming Video Understanding in MLLMs via Curvature-Aware Hierarchical Visual Memory Management|[[pdf]](https://arxiv.org/pdf/2603.19571)|-|Curvature-Aware Scorer (Motion Variation + Geometric Curvature); EMA-Based K-Sigma Dynamic Thresholding; Hierarchical Clear/Blurred/Discard Memory with FIFO Eviction|
@@ -267,6 +269,7 @@
 
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.06|Harnessing Streaming Video in the Wild|[[pdf]](https://arxiv.org/pdf/2606.08615v1)| - |vLLM-Friendly; Prefix-aware KV Cache |
 |2026.05|Decouple and Cache: KV Cache Construction for Streaming Video Understanding|[[pdf]](https://arxiv.org/pdf/2605.01858)|[[GitHub]](https://github.com/pangzhan27/DSCache) ![](https://img.shields.io/github/stars/pangzhan27/DSCache.svg?style=social)|Training-Free KV Cache Construction with Decoupled Past/Instant Caches and Position-Agnostic Encoding for Unbounded Streams |
 |2026.04|Don't Pause! Every prediction matters in a streaming video|[[pdf]](https://arxiv.org/pdf/2604.24317)|[[GitHub]](https://github.com/dibschat/SPOT-Bench) ![](https://img.shields.io/github/stars/dibschat/SPOT-Bench.svg?style=social)|AsynKV Long-Short Term KV Memory; Scaling Compute during Dead-Time for Streaming Adaptation |
 |2026.04|AURA: Always-On Understanding and Real-Time Assistance via Video Streams|[[pdf]](https://arxiv.org/pdf/2604.04184)|[[GitHub]](https://github.com/aurateam2026/AURA) ![](https://img.shields.io/github/stars/aurateam2026/AURA.svg?style=social)|Floating Video/QA Sliding Windows with Batched N' Chunk Truncation for Prefix KV-Cache Reuse and Lower TTFT |
@@ -292,6 +295,7 @@
 
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.06|Harnessing Streaming Video in the Wild|[[pdf]](https://arxiv.org/pdf/2606.08615v1)| - |Streaming-Eval; in-the-wild streaming video scenarios |
 |2026.05|StreamOV: Streaming Omni-Video Understanding via Evidence-Guided Memory and Response Triggering|[[pdf]](https://arxiv.org/pdf/2605.25621)|-|SOVBench for online multi-turn omni-modal evaluation with SOVBench-O and SOVBench-T |
 |2026.04|Don't Pause! Every prediction matters in a streaming video|[[pdf]](https://arxiv.org/pdf/2604.24317)|[[GitHub]](https://github.com/dibschat/SPOT-Bench) ![](https://img.shields.io/github/stars/dibschat/SPOT-Bench.svg?style=social)|SPOT-Bench with Multi-Turn Proactive Queries; Timeliness-F1 for Temporal Precision and Coverage |
 |2026.03|RIVER: A Real-Time Interaction Benchmark for Video LLMs|[[pdf]](https://arxiv.org/pdf/2603.03985)|[[GitHub]](https://github.com/OpenGVLab/RIVER) ![](https://img.shields.io/github/stars/OpenGVLab/RIVER.svg?style=social)|Memory & Perception & Anticipation|
@@ -325,6 +329,7 @@
 
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.06|Harnessing Streaming Video in the Wild|[[pdf]](https://arxiv.org/pdf/2606.08615v1)| - |spanning diverse real-world scenarios |
 |2026.03|WAT: Online Video Understanding Needs Watching Before Thinking|[[pdf]](https://arxiv.org/pdf/2603.13412)|-|Real-Time Perception; Backward Tracing; Forecasting |
 |2026.03|Thinking in Streaming Video|[[pdf]](https://arxiv.org/pdf/2603.12938)|[[GitHub]](https://github.com/johncaged/ThinkStream) ![](https://img.shields.io/github/stars/johncaged/ThinkStream.svg?style=social)|Video Segmentation and Dense Captioning; Diverse Instruction Synthesis; Time-Grounded CoT Generation |
 |2026.01|Learning to Respond: A Large-Scale Benchmark and Progressive Learning Framework for Trigger-Centric Online Video Understanding|[[pdf]](https://openreview.net/pdf?id=gmpnSSiJt7)|-|TV-Online |
