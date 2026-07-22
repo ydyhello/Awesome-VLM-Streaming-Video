@@ -49,12 +49,14 @@
 ## 🛠️ Project
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.06|JoyAI-VL-Interaction|[[html]](https://joyai-vl-video-future-academy-jd.github.io/JoyAI-VL-Interaction/)|[[GitHub]](https://github.com/jd-opensource/JoyAI-VL-Interaction/) ![](https://img.shields.io/github/stars/jd-opensource/JoyAI-VL-Interaction.svg?style=social)|An Open Real-time Video-Language Interaction System |
 |2025.11|Live VLM WebUI|[[docs]](https://build.nvidia.com/spark/live-vlm-webui/overview)|[[GitHub]](https://github.com/NVIDIA-AI-IOT/live-vlm-webui) ![](https://img.shields.io/github/stars/NVIDIA-AI-IOT/live-vlm-webui.svg?style=social)|Real-Time Vision Language Model Interaction with Webcam Streaming |
 |-|火山引擎（实时音视频）|[[html]](https://www.volcengine.com/docs/6348/1408245?lang=zh)|-|turn-based chat; 周期性发送 ExternalTextToLLM 触发主动响应 |
 
 ## 📋 Technical Report
 |Date|Title|Paper|Code|Demo|Comment|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|2026.06|JoyAI-VL-Interaction|[[pdf]](https://arxiv.org/pdf/2606.14777v1)|[[GitHub]](https://github.com/jd-opensource/JoyAI-VL-Interaction/) ![](https://img.shields.io/github/stars/jd-opensource/JoyAI-VL-Interaction.svg?style=social)| [[demo]](https://joyai-vl-video-future-academy-jd.github.io/JoyAI-VL-Interaction/) |An Open Real-time Video-Language Interaction System |
 |2026.05|Interaction Models: A Scalable Approach to Human-AI Collaboration (Thinking Machines Lab)| [[html]](https://thinkingmachines.ai/blog/interaction-models/)| - | - |Time-aligned micro-turns |
 |2026.04|MiniCPM-o 4.5| [[pdf]](https://arxiv.org/pdf/2604.27393)|[[GitHub]](https://github.com/OpenBMB/MiniCPM-o-Demo) ![](https://img.shields.io/github/stars/OpenBMB/MiniCPM-o-Demo.svg?style=social)|[[demo]](https://minicpmo45.modelbest.cn/omni)|New Full-Duplex and Proactive Multimodal Live Streaming Capability|
 |2026.03|Gemini 3.1 Flash Live| [[html]](https://ai.google.dev/gemini-api/docs/models/gemini-3.1-flash-live-preview)| - | [[demo]](https://aistudio.google.com/live?model=gemini-3.1-flash-live-preview) |turn-based chat |
