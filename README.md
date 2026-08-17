@@ -56,6 +56,7 @@
 ## 📋 Technical Report
 |Date|Title|Paper|Code|Demo|Comment|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|2026.08|SeedRealtime: An Audio-Visual Full-Duplex LLM|[[html]](https://seed.bytedance.com/en/SeedRealtime)|-|-|Native audio-visual full-duplex interaction|
 |2026.06|JoyAI-VL-Interaction|[[pdf]](https://arxiv.org/pdf/2606.14777v1)|[[GitHub]](https://github.com/jd-opensource/JoyAI-VL-Interaction/) ![](https://img.shields.io/github/stars/jd-opensource/JoyAI-VL-Interaction.svg?style=social)| [[demo]](https://joyai-vl-video-future-academy-jd.github.io/JoyAI-VL-Interaction/) |An Open Real-time Video-Language Interaction System |
 |2026.05|Interaction Models: A Scalable Approach to Human-AI Collaboration (Thinking Machines Lab)| [[html]](https://thinkingmachines.ai/blog/interaction-models/)| - | - |Time-aligned micro-turns |
 |2026.04|MiniCPM-o 4.5| [[pdf]](https://arxiv.org/pdf/2604.27393)|[[GitHub]](https://github.com/OpenBMB/MiniCPM-o-Demo) ![](https://img.shields.io/github/stars/OpenBMB/MiniCPM-o-Demo.svg?style=social)|[[demo]](https://minicpmo45.modelbest.cn/omni)|New Full-Duplex and Proactive Multimodal Live Streaming Capability|
