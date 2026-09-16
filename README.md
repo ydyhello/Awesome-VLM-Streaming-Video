@@ -56,6 +56,8 @@
 ## 📋 Technical Report
 |Date|Title|Paper|Code|Demo|Comment|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|2026.09|Omni Interaction Agent Technical Report|[[pdf]](https://arxiv.org/pdf/2609.08977)|[[GitHub]](https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent) ![](https://img.shields.io/github/stars/Omni-Interaction-Gander/Omni-Interaction-Agent.svg?style=social)|[[demo]](https://omni-interaction-gander.github.io/Omni-Interaction-Agent/)|Multimodal Duplex Interaction Agent|
+|2026.09|Gemini 3.8 Live|[[html]](https://ai.google.dev/gemini-api/docs/models/gemini-3.8-live)|-|[[html]](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/)|Parallel Reasoning; Streaming Agent for Complex Workflows|
 |2026.08|MOSS-VL Technical Report|[[pdf]](https://arxiv.org/pdf/2608.15045)|[[GitHub]](https://github.com/OpenMOSS/MOSS-VL) ![](https://img.shields.io/github/stars/OpenMOSS/MOSS-VL.svg?style=social)|[[demo]](https://openmoss.ai/MOSS-VL/)|Cross-attention vision-language architecture for full-duplex streaming interaction|
 |2026.08|SeedRealtime: An Audio-Visual Full-Duplex LLM|[[html]](https://seed.bytedance.com/en/SeedRealtime)|-|-|Native audio-visual full-duplex interaction|
 |2026.06|JoyAI-VL-Interaction|[[pdf]](https://arxiv.org/pdf/2606.14777v1)|[[GitHub]](https://github.com/jd-opensource/JoyAI-VL-Interaction/) ![](https://img.shields.io/github/stars/jd-opensource/JoyAI-VL-Interaction.svg?style=social)| [[demo]](https://joyai-vl-video-future-academy-jd.github.io/JoyAI-VL-Interaction/) |An Open Real-time Video-Language Interaction System |
@@ -322,6 +324,7 @@
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
 |2026.08|StreamArena: Toward Continuous, Interactive, and Long-Horizon Agentic Streaming Video Understanding|[[pdf]](https://arxiv.org/pdf/2608.05703)|-|243 Full-Length Videos (88.8 min Avg.); 3,646 Open-Ended Tasks for Perception, Retrospection, Proactive Interaction & Tool Use |
+|2026.08|OVIBench: Benchmarking Online Video Question Answering under Interruption|[[pdf]](https://arxiv.org/pdf/2608.22279)|-|An Offline Simulation of Full-Duplex Interruption Evaluation|
 |2026.06|OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs|[[pdf]](https://arxiv.org/pdf/2606.03890)|[[html]](https://internlm.github.io/OVO-S-Bench/)|Streaming spatial understanding benchmark|
 |2026.06|X-Stream: Exploring MLLMs as Multiplexers for Multi-Stream Understanding|[[pdf]](https://arxiv.org/pdf/2606.02482)|[[html]](https://peiwensun2000.github.io/xstream/)|Multi-stream understanding benchmark|
 |2026.06|LiveStarPro: Proactive Streaming Video Understanding with Hierarchical Memory for Long-Horizon Streams|[[pdf]](https://arxiv.org/pdf/2606.17798)|[[GitHub]](https://github.com/sotayang/LiveStar) ![](https://img.shields.io/github/stars/sotayang/LiveStar.svg?style=social)|OmniStarPro for Long-Horizon Proactive Streaming Video Evaluation |
