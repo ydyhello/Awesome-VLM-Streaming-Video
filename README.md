@@ -262,6 +262,7 @@
 
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.09|StreamScout: Learning When to Look Deeper for Streaming Video Understanding|[[pdf]](https://arxiv.org/pdf/2609.00291)|-|Query-Adaptive Three-Stage Evidence Cascade (Recent Glance, Uniform Look-Back & Query-Salient Retrieval) with Self-Distilled and GRPO-Refined Stop-or-Escalate Decisions |
 |2026.05|An Efficient Streaming Video Understanding Framework with Agentic Control|[[pdf]](https://arxiv.org/pdf/2605.17921)|-|TB-GRPO Fast/Slow Model Routing with Target-Band Control over Heavy-Model Escalation Frequency |
 |2026.03|STRIDE: When to Speak Meets Sequence Denoising for Streaming Video Understanding|[[pdf]](https://arxiv.org/pdf/2603.27593)|[[GitHub]](https://github.com/interlive-team/STRIDE) ![](https://img.shields.io/github/stars/interlive-team/STRIDE.svg?style=social)|Two-stage Activation-to-Generation Pipeline; Event-gated Downstream Video-LLM Invocation|
 |2026.03|Color When It Counts: Grayscale-Guided Online Triggering for Always-On Streaming Video Sensing|[[pdf]](https://arxiv.org/pdf/2603.22466)|[[GitHub]](https://github.com/lvgd/ColorTrigger) ![](https://img.shields.io/github/stars/lvgd/ColorTrigger.svg?style=social)|Windowed Grayscale Affinity Analysis with Quadratic Programming; Credit-Budgeted RGB Activation; Dynamic Token Router with Asymmetric Grayscale and RGB Token Capacity |
@@ -322,6 +323,7 @@
 
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.08|NBA_Streaming: A Large-Scale Benchmark for Fine-Grained Basketball Commentary Generation in Continuous Streams|[[pdf]](https://arxiv.org/pdf/2608.09200v2)|-|307.5 Hours of Basketball Broadcasts with ~35K Temporally Aligned Events for Evaluating Event Localization, Response Reliability, Factual Grounding & Commentary Quality |
 |2026.08|StreamArena: Toward Continuous, Interactive, and Long-Horizon Agentic Streaming Video Understanding|[[pdf]](https://arxiv.org/pdf/2608.05703)|-|243 Full-Length Videos (88.8 min Avg.); 3,646 Open-Ended Tasks for Perception, Retrospection, Proactive Interaction & Tool Use |
 |2026.06|OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs|[[pdf]](https://arxiv.org/pdf/2606.03890)|[[html]](https://internlm.github.io/OVO-S-Bench/)|Streaming spatial understanding benchmark|
 |2026.06|X-Stream: Exploring MLLMs as Multiplexers for Multi-Stream Understanding|[[pdf]](https://arxiv.org/pdf/2606.02482)|[[html]](https://peiwensun2000.github.io/xstream/)|Multi-stream understanding benchmark|
