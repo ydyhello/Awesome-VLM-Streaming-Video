@@ -113,6 +113,7 @@
 
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.10|Foresight: Planning Future Perception in Streaming VLMs without Retraining|[[pdf]](https://arxiv.org/pdf/2610.03123)|[[GitHub]](https://github.com/thenaivekid/foresight) ![](https://img.shields.io/github/stars/thenaivekid/foresight.svg?style=social)|Training-free Siamese Frozen Qwen3-VL-8B with Shared KV Cache Planning When to Reason, What to Check & Sampling FPS |
 |2026.06|LiveStarPro: Proactive Streaming Video Understanding with Hierarchical Memory for Long-Horizon Streams|[[pdf]](https://arxiv.org/pdf/2606.17798)|[[GitHub]](https://github.com/sotayang/LiveStar) ![](https://img.shields.io/github/stars/sotayang/LiveStar.svg?style=social)|Inference-Time Streaming Verification Decoding (SVeD) for Response/Silence Decisions |
 |2026.05|Response-G1: Explicit Scene Graph Modeling for Proactive Streaming Video Understanding|[[pdf]](https://arxiv.org/pdf/2605.07575)|-|Fine-Tuning-Free Retrieval-Augmented Trigger Prompting with Query-Guided Scene Graph Evidence|
 |2026.03|FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding|[[pdf]](https://arxiv.org/pdf/2603.02096)|[[GitHub]](https://github.com/YiwengXie/FluxMem) ![](https://img.shields.io/github/stars/YiwengXie/FluxMem.svg?style=social)|Scene-Change Ratio Trigger Reusing Temporal Adjacency Selection Statistics |
