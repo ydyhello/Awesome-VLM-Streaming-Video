@@ -56,6 +56,8 @@
 ## 📋 Technical Report
 |Date|Title|Paper|Code|Demo|Comment|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|2026.09|Realtime-Venus: A Full-Duplex Interaction System with Asynchronous Delegation|[[pdf]](https://arxiv.org/pdf/2609.13814)|[[GitHub]](https://github.com/inclusionAI/Realtime-Venus) ![](https://img.shields.io/github/stars/inclusionAI/Realtime-Venus.svg?style=social)|[[html]](https://realtime-venus.github.io/)|Full-duplex Interaction System; Asynchronous Delegation|
+|2026.09|Qwen3.8-Omni-Flash-Realtime|[[pdf]](https://arxiv.org/pdf/2609.25611)|[[GitHub]](https://github.com/QwenLM/Qwen-Live-Harness) ![](https://img.shields.io/github/stars/QwenLM/Qwen-Live-Harness.svg?style=social)|[[html]](https://qwen.ai/blog?id=qwen3.8-omni-flash)|Omni Senses and Agentic Delivery; Live Harness|
 |2026.09|Omni Interaction Agent Technical Report|[[pdf]](https://arxiv.org/pdf/2609.08977)|[[GitHub]](https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent) ![](https://img.shields.io/github/stars/Omni-Interaction-Gander/Omni-Interaction-Agent.svg?style=social)|[[demo]](https://omni-interaction-gander.github.io/Omni-Interaction-Agent/)|Multimodal Duplex Interaction Agent|
 |2026.09|Gemini 3.8 Live|[[html]](https://ai.google.dev/gemini-api/docs/models/gemini-3.8-live)|-|[[html]](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/)|Parallel Reasoning; Streaming Agent for Complex Workflows|
 |2026.08|MOSS-VL Technical Report|[[pdf]](https://arxiv.org/pdf/2608.15045)|[[GitHub]](https://github.com/OpenMOSS/MOSS-VL) ![](https://img.shields.io/github/stars/OpenMOSS/MOSS-VL.svg?style=social)|[[demo]](https://openmoss.ai/MOSS-VL/)|Cross-attention vision-language architecture for full-duplex streaming interaction|
@@ -396,6 +398,7 @@
 
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.06|Towards Online Interactors: A Comprehensive Survey on Streaming Video Understanding|[[pdf]](https://sotayang.github.io/Streaming_Video_Understanding_Survey.pdf)|-|-|
 |2024.01|A Survey on Generative AI and LLM for Video Generation, Understanding, and Streaming|[[pdf]](https://arxiv.org/pdf/2404.16038)|-|- |
 
 ## 🔗 Resources
