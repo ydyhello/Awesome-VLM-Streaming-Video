@@ -90,6 +90,7 @@
 
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.10|OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction|[[pdf]](https://arxiv.org/pdf/2610.01762v1)|[[html]](https://mcg-nju.github.io/OneStreamer)|Proactive Hierarchical Caption Memory with \</Observe\>/\</Summary\>; \</Silence\>/\</Standby\>/\</Response\> control tokens; OneStreamer-1M|
 |2026.06|Harnessing Streaming Video in the Wild|[[pdf]](https://arxiv.org/pdf/2606.08615v1)| - |Training Objective Targeting </silence> </response> |
 |2026.04|AURA: Always-On Understanding and Real-Time Assistance via Video Streams|[[pdf]](https://arxiv.org/pdf/2604.04184)|[[GitHub]](https://github.com/aurateam2026/AURA) ![](https://img.shields.io/github/stars/aurateam2026/AURA.svg?style=social)|Unified \<\|silent\|\> Token for Silent Observation with Real-Time QA / Proactive QA / Multi-Response QA; Silent-Speech Balanced Loss |
 |2026.03|STRIDE: When to Speak Meets Sequence Denoising for Streaming Video Understanding|[[pdf]](https://arxiv.org/pdf/2603.27593)|[[GitHub]](https://github.com/interlive-team/STRIDE) ![](https://img.shields.io/github/stars/interlive-team/STRIDE.svg?style=social)|Activation Token Denoising over 0/1/[M]; Sequence Duplication; Selective Re-masking|
@@ -144,6 +145,7 @@
 
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.10|OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction|[[pdf]](https://arxiv.org/pdf/2610.01762v1)|[[html]](https://mcg-nju.github.io/OneStreamer)|Recent-N visual window with Proactive Hierarchical Caption Memory (PHCM) for long-range streaming context|
 |2026.08|StreamFlow: Dynamic Memory Flows for Streaming Video Understanding|[[pdf]](https://arxiv.org/pdf/2608.10949)|-|Dynamics-Aware Mid-Term Memory with Pre-Encoding Redundancy Filtering + Fixed-Capacity Latent Long-Term Memory |
 |2026.06|LiveStarPro: Proactive Streaming Video Understanding with Hierarchical Memory for Long-Horizon Streams|[[pdf]](https://arxiv.org/pdf/2606.17798)|[[GitHub]](https://github.com/sotayang/LiveStar) ![](https://img.shields.io/github/stars/sotayang/LiveStar.svg?style=social)|Tree-Structured Hierarchical Memory (TSHM) for Long-Horizon Streaming on Existing LiveStar-8B Weights |
 |2026.06|Harnessing Streaming Video in the Wild|[[pdf]](https://arxiv.org/pdf/2606.08615v1)| - |short-term memory; mid-term memory; long-term memory; enabling up to 12 hours of context |
@@ -244,6 +246,7 @@
 
 |  Date   |                            Title                             |                   Paper                   |                             Code                             |                           Comment                            |
 | :-----: | :----------------------------------------------------------: | :---------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2026.06 | Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors | [[pdf]](https://arxiv.org/pdf/2606.06891) | [[html]](https://stream3d-vlm.github.io/) | Incremental geometry priors with Visual-Spatial Feature Integration and Geometry-Adaptive Voxel Compression for streaming 3D understanding |
 | 2026.01 | OnlineSI: Taming Large Language Model for Online 3D Understanding and Grounding | [[pdf]](https://arxiv.org/pdf/2601.16538) | [[GitHub]](https://github.com/StoreBlank/online-spatial-intelligence) ![](https://img.shields.io/github/stars/StoreBlank/online-spatial-intelligence.svg?style=social) | Fixed-size Spatial Memory with Time-adaptive Sampling and Concatenation; Explicit Point Cloud and Semantic Memory |
 
 ### Parametric / Fast-weight Memory
@@ -328,6 +331,7 @@
 
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.09|APM-Bench: Benchmarking Cross-session Persistent Memory for Egocentric Streaming Video Assistants|[[pdf]](https://arxiv.org/pdf/2609.37559)|-|549 sessions and 104 trajectories for evaluating persistent memory recall, latency, storage, and proactive assistance across streaming video sessions|
 |2026.08|NBA_Streaming: A Large-Scale Benchmark for Fine-Grained Basketball Commentary Generation in Continuous Streams|[[pdf]](https://arxiv.org/pdf/2608.09200v2)|-|307.5 Hours of Basketball Broadcasts with ~35K Temporally Aligned Events for Evaluating Event Localization, Response Reliability, Factual Grounding & Commentary Quality |
 |2026.08|StreamArena: Toward Continuous, Interactive, and Long-Horizon Agentic Streaming Video Understanding|[[pdf]](https://arxiv.org/pdf/2608.05703)|-|243 Full-Length Videos (88.8 min Avg.); 3,646 Open-Ended Tasks for Perception, Retrospection, Proactive Interaction & Tool Use |
 |2026.08|OVIBench: Benchmarking Online Video Question Answering under Interruption|[[pdf]](https://arxiv.org/pdf/2608.22279)|-|An Offline Simulation of Full-Duplex Interruption Evaluation|
@@ -335,6 +339,7 @@
 |2026.06|X-Stream: Exploring MLLMs as Multiplexers for Multi-Stream Understanding|[[pdf]](https://arxiv.org/pdf/2606.02482)|[[html]](https://peiwensun2000.github.io/xstream/)|Multi-stream understanding benchmark|
 |2026.06|LiveStarPro: Proactive Streaming Video Understanding with Hierarchical Memory for Long-Horizon Streams|[[pdf]](https://arxiv.org/pdf/2606.17798)|[[GitHub]](https://github.com/sotayang/LiveStar) ![](https://img.shields.io/github/stars/sotayang/LiveStar.svg?style=social)|OmniStarPro for Long-Horizon Proactive Streaming Video Evaluation |
 |2026.06|Harnessing Streaming Video in the Wild|[[pdf]](https://arxiv.org/pdf/2606.08615v1)| - |Streaming-Eval; in-the-wild streaming video scenarios |
+|2026.06|Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors|[[pdf]](https://arxiv.org/pdf/2606.06891)|[[html]](https://stream3d-vlm.github.io/)|Online 3D spatial understanding benchmark spanning 29 tasks with over 1M spatio-temporal 3D QA pairs|
 |2026.05|OmniInteract: Benchmarking Real-World Streaming Interaction for Real-Time Omnimodal Assistants|[[pdf]](https://arxiv.org/pdf/2605.26485)|[[GitHub]](https://github.com/Lucky-Lance/OmniInteract) ![](https://img.shields.io/github/stars/Lucky-Lance/OmniInteract.svg?style=social)|Omni-modal streaming benchmark; user queries and ambient sounds embedded in the audio track; nested interaction tasks and interruption recovery|
 |2026.05|StreamOV: Streaming Omni-Video Understanding via Evidence-Guided Memory and Response Triggering|[[pdf]](https://arxiv.org/pdf/2605.25621)|-|SOVBench for online multi-turn omni-modal evaluation with SOVBench-O and SOVBench-T |
 |2026.05|OmniPro: A Comprehensive Benchmark for Omni-Proactive Streaming Video Understanding|[[pdf]](https://arxiv.org/pdf/2605.18577)|[[GitHub]](https://github.com/RuixiangZhao/OmniPro) ![](https://img.shields.io/github/stars/RuixiangZhao/OmniPro.svg?style=social)|2.7K Human-Verified Samples across 9 Tasks with Probe and Online Evaluation Modes |
