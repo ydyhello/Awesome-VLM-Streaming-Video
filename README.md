@@ -331,7 +331,9 @@
 
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.10|FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?|[[pdf]](https://arxiv.org/pdf/2610.12427)|[[GitHub]](https://github.com/Ashone3/FastBench)|High-dynamic streaming benchmark with 306 QA pairs across eight domains; evaluates forward, instant, and backward temporal perception with adaptive frame-rate baseline|
 |2026.09|APM-Bench: Benchmarking Cross-session Persistent Memory for Egocentric Streaming Video Assistants|[[pdf]](https://arxiv.org/pdf/2609.37559)|-|549 sessions and 104 trajectories for evaluating persistent memory recall, latency, storage, and proactive assistance across streaming video sessions|
+|2026.09|LiveProBench: Can Streaming Video Models Really Interact Like Humans?|[[pdf]](https://arxiv.org/pdf/2609.12658v2)|[[GitHub]](https://github.com/v0yager33/LiveProBench)|Proactive interaction benchmark with one-second stream evaluation, response timing windows, silence behavior, and duplicate-counting penalties|
 |2026.08|NBA_Streaming: A Large-Scale Benchmark for Fine-Grained Basketball Commentary Generation in Continuous Streams|[[pdf]](https://arxiv.org/pdf/2608.09200v2)|-|307.5 Hours of Basketball Broadcasts with ~35K Temporally Aligned Events for Evaluating Event Localization, Response Reliability, Factual Grounding & Commentary Quality |
 |2026.08|StreamArena: Toward Continuous, Interactive, and Long-Horizon Agentic Streaming Video Understanding|[[pdf]](https://arxiv.org/pdf/2608.05703)|-|243 Full-Length Videos (88.8 min Avg.); 3,646 Open-Ended Tasks for Perception, Retrospection, Proactive Interaction & Tool Use |
 |2026.08|OVIBench: Benchmarking Online Video Question Answering under Interruption|[[pdf]](https://arxiv.org/pdf/2608.22279)|-|An Offline Simulation of Full-Duplex Interruption Evaluation|
