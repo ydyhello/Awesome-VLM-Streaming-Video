@@ -266,6 +266,7 @@
 
 |  Date   |                            Title                             |                   Paper                   |                             Code                             |                           Comment                            |
 | :-----: | :----------------------------------------------------------: | :---------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|2026.10|Memory as Weights: Internalizing Long-Term History for Streaming Videos|[[pdf]](https://arxiv.org/pdf/2610.22070)|-|Recurrent HyperNetwork Consolidates Streaming Video History into Fixed-Size LoRA Weights while Keeping Current Observations as Input|
 | 2026.08 | StreamTTT: Reconciling Real-Time Perception and Long-Term Memory in Streaming VLMs | [[pdf]](https://arxiv.org/pdf/2608.13416) | - | Parallel Gated TTT Fast-Weight Memory for Long-Range History outside the Short Sliding Attention Context |
 | 2025.10 | video-SALMONN S: Streaming Audio-Visual LLMs Beyond Length Limits via Memory | [[pdf]](https://arxiv.org/pdf/2510.11129) | [[GitHub]](https://github.com/bytedance/SALMONN/tree/video-salmonn-S) ![](https://img.shields.io/github/stars/bytedance/SALMONN.svg?style=social) | Test-Time Training Fast-Weight MLP as Streaming Memory with Dual (Reconstruction + Long-Span Prediction) Objective; Cosine Similarity Token Discarding; Prompt-Dependent Modality-Aware KV-Cache Chunk Reading |
 
@@ -319,6 +320,7 @@
 
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.10|Memory as Weights: Internalizing Long-Term History for Streaming Videos|[[pdf]](https://arxiv.org/pdf/2610.22070)|-|MaLoW-Instruct: 381K Question-Answer Pairs over 56K Videos for Streaming Video Memory Training|
 |2026.08|StreamTTT: Reconciling Real-Time Perception and Long-Term Memory in Streaming VLMs|[[pdf]](https://arxiv.org/pdf/2608.13416)|-|Short Sliding KV Cache Dedicated to Recent Evidence with Globally Continuous M-RoPE across Windows |
 |2026.06|LiveStarPro: Proactive Streaming Video Understanding with Hierarchical Memory for Long-Horizon Streams|[[pdf]](https://arxiv.org/pdf/2606.17798)|[[GitHub]](https://github.com/sotayang/LiveStar) ![](https://img.shields.io/github/stars/sotayang/LiveStar.svg?style=social)|Inference-Time Streaming KV Cache for Faster Long-Horizon Processing on Existing LiveStar-8B Weights |
 |2026.06|Harnessing Streaming Video in the Wild|[[pdf]](https://arxiv.org/pdf/2606.08615v1)| - |vLLM-Friendly; Prefix-aware KV Cache |
