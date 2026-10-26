@@ -109,6 +109,7 @@
 
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.10|SyncPro: Synchronous Reasoning and Responding for Proactive Streaming Video Understanding|[[pdf]](https://arxiv.org/pdf/2610.32132)|[[GitHub]](https://github.com/Eureka-Maggie/SyncPro) ![](https://img.shields.io/github/stars/Eureka-Maggie/SyncPro.svg?style=social)|Independent Inner / Response Activation; Timing-Aware SFT with Action Temporal Ranking; Trajectory-Level RL with Hard-Window F1 Reward|
 |2026.09|Watch-Think-Interact: Bootstrapping Long-Horizon Multi-Turn Streaming Video Reasoning with Reinforcement Learning|[[pdf]](https://arxiv.org/pdf/2609.37035)|-|Stream-GDPO Optimizes Multi-Question Rollouts with Answer / Continue-Watching / Past-Interval Recall Decisions and Trajectory-Level Feedback|
 |2026.05|StreamPro: From Reactive Perception to Proactive Decision-Making in Streaming Video|[[pdf]](https://arxiv.org/pdf/2605.16381)|-|Two-stage proactive training with CB-Stream Loss for SFT and GRPO with turn-level & trajectory-level rewards |
 |2026.03|Thinking in Streaming Video|[[pdf]](https://arxiv.org/pdf/2603.12938)|[[GitHub]](https://github.com/johncaged/ThinkStream) ![](https://img.shields.io/github/stars/johncaged/ThinkStream.svg?style=social)|Watch-Think-Speak with \<silent\> & \<response\> Action Tokens; Streaming RLVR (Format + Time + Accuracy Reward) |
@@ -340,6 +341,7 @@
 
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.10|Unified Runtime for Full-Duplex Interactive Intelligence with SGLang Omni|[[html]](https://www.sglang.io/blog/omni-interactive-runtime)|[[GitHub]](https://github.com/sgl-project/sglang-omni) ![](https://img.shields.io/github/stars/sgl-project/sglang-omni.svg?style=social)|Graph Orchestration and Persistent Sessions for Native Full-Duplex, Turn-Based & Cascaded Multimodal Systems; Interruption Handling and Playback-Aware History|
 |2026.10|vLLM-Omni Technical Report: A Unified Serving Runtime for Omni-Modality Generation|[[pdf]](https://arxiv.org/pdf/2610.09307)|[[GitHub]](https://github.com/vllm-project/vllm-omni) ![](https://img.shields.io/github/stars/vllm-project/vllm-omni.svg?style=social)|Unified Multi-Stage Serving with Pipeline Orchestration, Streaming Output Demultiplexing & Session Control for Long-Lived Duplex Workloads|
 |2026.07|FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications|[[pdf]](https://arxiv.org/pdf/2607.18171)|-|Agent-Guided Multi-GPU Deployment of Real-Time Multimodal Pipelines; Placement, Streaming & Parallelism Optimized through Measured Latency and Throughput|
 
@@ -347,6 +349,7 @@
 
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.10|SyncPro: Synchronous Reasoning and Responding for Proactive Streaming Video Understanding|[[pdf]](https://arxiv.org/pdf/2610.32132)|[[GitHub]](https://github.com/Eureka-Maggie/SyncPro) ![](https://img.shields.io/github/stars/Eureka-Maggie/SyncPro.svg?style=social)|Synchronous Inner / Response Streams with Separate LoRA Routes, Shared Causal History & Parallel Decoding; Branch States Merged at Micro-Turn Boundaries|
 |2026.09|Omni-Streaming Thinking|[[pdf]](https://arxiv.org/pdf/2609.15128)|-|Evidence / Forecast / Claim State with Pending Verification Intervals; Separate Audio-Visual Evidence, Contradiction Refutation & Answer Gating|
 |2026.09|Watch-Think-Interact: Bootstrapping Long-Horizon Multi-Turn Streaming Video Reasoning with Reinforcement Learning|[[pdf]](https://arxiv.org/pdf/2609.37035)|-|Closed-Loop Answer / Watch / Recall Reasoning with Time-Tagged Memory and Stream-GDPO for Long-Horizon Multi-Turn Interaction|
 |2026.05|An Efficient Streaming Video Understanding Framework with Agentic Control|[[pdf]](https://arxiv.org/pdf/2605.17921)|-|Adaptive Thinking with SFT + TB-GRPO to Route Ready Queries between Direct Answers and Slow Reasoning |
@@ -419,6 +422,7 @@
 
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.10|SyncPro: Synchronous Reasoning and Responding for Proactive Streaming Video Understanding|[[pdf]](https://arxiv.org/pdf/2610.32132)|[[GitHub]](https://github.com/Eureka-Maggie/SyncPro) ![](https://img.shields.io/github/stars/Eureka-Maggie/SyncPro.svg?style=social)|SyncPro-189K: 189,403 Causal Dual-Stream Trajectories from 12 Video Sources with Per-Micro-Turn Inner / Response Supervision; [[data]](https://huggingface.co/datasets/EurekaTian/SyncPro-189k)|
 |2026.09|Watch-Think-Interact: Bootstrapping Long-Horizon Multi-Turn Streaming Video Reasoning with Reinforcement Learning|[[pdf]](https://arxiv.org/pdf/2609.37035)|-|WTI-82K: 82,335 Timed Questions across 4,812 Causally Aligned Multi-Question Streaming Trajectories|
 |2026.09|OmniVChat: Synthesizing, Benchmarking, and Training for Native Audio-Visual Dialogue|[[pdf]](https://arxiv.org/pdf/2609.21465)|-|OmniVChat-Studio Synthesizes Single- and Multi-Turn Native Audio-Visual Dialogues; OmniVChat-RL Targets Correctness, Efficiency & Style|
 |2026.08|StreamTTT: Reconciling Real-Time Perception and Long-Term Memory in Streaming VLMs|[[pdf]](https://arxiv.org/pdf/2608.13416)|-|112.4K Real-Time QA Corpus from Answer-Time Relocation plus Action, Spatial Reasoning, Anticipation & Captioning Supervision |
