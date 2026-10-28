@@ -109,6 +109,7 @@
 
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.10|StreamVibe: Proactive Video Agents for Evolving User Intent|[[pdf]](https://arxiv.org/pdf/2610.34662)|[[html]](https://stream-vibe.github.io/)|Adaptive Streaming SFT; Localized Trajectory GRPO with Point-Level Timing / Content Rewards and Trajectory-Level Coherence Reward|
 |2026.10|SyncPro: Synchronous Reasoning and Responding for Proactive Streaming Video Understanding|[[pdf]](https://arxiv.org/pdf/2610.32132)|[[GitHub]](https://github.com/Eureka-Maggie/SyncPro) ![](https://img.shields.io/github/stars/Eureka-Maggie/SyncPro.svg?style=social)|Independent Inner / Response Activation; Timing-Aware SFT with Action Temporal Ranking; Trajectory-Level RL with Hard-Window F1 Reward|
 |2026.09|Watch-Think-Interact: Bootstrapping Long-Horizon Multi-Turn Streaming Video Reasoning with Reinforcement Learning|[[pdf]](https://arxiv.org/pdf/2609.37035)|-|Stream-GDPO Optimizes Multi-Question Rollouts with Answer / Continue-Watching / Past-Interval Recall Decisions and Trajectory-Level Feedback|
 |2026.05|StreamPro: From Reactive Perception to Proactive Decision-Making in Streaming Video|[[pdf]](https://arxiv.org/pdf/2605.16381)|-|Two-stage proactive training with CB-Stream Loss for SFT and GRPO with turn-level & trajectory-level rewards |
@@ -151,6 +152,7 @@
 
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.10|StreamVibe: Proactive Video Agents for Evolving User Intent|[[pdf]](https://arxiv.org/pdf/2610.34662)|[[html]](https://stream-vibe.github.io/)|StreamVibe-Harness: Persistent Intent States with Flexible Lifecycles; Recent Visual Context, Mid-Term Summaries & Long-Term Text Memory with Intent-Aware Retrieval|
 |2026.10|OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction|[[pdf]](https://arxiv.org/pdf/2610.01762v1)|[[html]](https://mcg-nju.github.io/OneStreamer)|Recent-N visual window with Proactive Hierarchical Caption Memory (PHCM) for long-range streaming context|
 |2026.08|StreamFlow: Dynamic Memory Flows for Streaming Video Understanding|[[pdf]](https://arxiv.org/pdf/2608.10949)|-|Dynamics-Aware Mid-Term Memory with Pre-Encoding Redundancy Filtering + Fixed-Capacity Latent Long-Term Memory |
 |2026.06|LiveStarPro: Proactive Streaming Video Understanding with Hierarchical Memory for Long-Horizon Streams|[[pdf]](https://arxiv.org/pdf/2606.17798)|[[GitHub]](https://github.com/sotayang/LiveStar) ![](https://img.shields.io/github/stars/sotayang/LiveStar.svg?style=social)|Tree-Structured Hierarchical Memory (TSHM) for Long-Horizon Streaming on Existing LiveStar-8B Weights |
@@ -363,6 +365,7 @@
 
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.10|StreamVibe: Proactive Video Agents for Evolving User Intent|[[pdf]](https://arxiv.org/pdf/2610.34662)|[[html]](https://stream-vibe.github.io/)|StreamVibe-Bench: 4,100 Evaluation Samples across Explicit, Implicit & Dynamic Intents; Pointwise and Trajectory Evaluation for Response Timing and Content Quality|
 |2026.10|FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?|[[pdf]](https://arxiv.org/pdf/2610.12427)|[[GitHub]](https://github.com/Ashone3/FastBench)|High-dynamic streaming benchmark with 306 QA pairs across eight domains; evaluates forward, instant, and backward temporal perception with adaptive frame-rate baseline|
 |2026.10|InteractionBench: A Real-Time Interaction Benchmark for Streaming Video Systems|[[pdf]](https://arxiv.org/pdf/2610.05775)|[[GitHub]](https://github.com/Espere-1119-Song/InteractionBench) ![](https://img.shields.io/github/stars/Espere-1119-Song/InteractionBench.svg?style=social)|1,060 Interactions over 812 Videos; Query Responses, Event Triggers & Ongoing Updates Evaluated for Content, Timing & Silence Compliance|
 |2026.09|APM-Bench: Benchmarking Cross-session Persistent Memory for Egocentric Streaming Video Assistants|[[pdf]](https://arxiv.org/pdf/2609.37559)|-|549 sessions and 104 trajectories for evaluating persistent memory recall, latency, storage, and proactive assistance across streaming video sessions|
@@ -422,6 +425,7 @@
 
 |Date|Title|Paper|Code|Comment|
 |:---:|:---:|:---:|:---:|:---:|
+|2026.10|StreamVibe: Proactive Video Agents for Evolving User Intent|[[pdf]](https://arxiv.org/pdf/2610.34662)|[[html]](https://stream-vibe.github.io/)|StreamVibe-85K: 70K Task-Aligned SFT Samples + 15K Localized RL Tasks; Additional 768K General Streaming-Video SFT Samples|
 |2026.10|SyncPro: Synchronous Reasoning and Responding for Proactive Streaming Video Understanding|[[pdf]](https://arxiv.org/pdf/2610.32132)|[[GitHub]](https://github.com/Eureka-Maggie/SyncPro) ![](https://img.shields.io/github/stars/Eureka-Maggie/SyncPro.svg?style=social)|SyncPro-189K: 189,403 Causal Dual-Stream Trajectories from 12 Video Sources with Per-Micro-Turn Inner / Response Supervision; [[data]](https://huggingface.co/datasets/EurekaTian/SyncPro-189k)|
 |2026.09|Watch-Think-Interact: Bootstrapping Long-Horizon Multi-Turn Streaming Video Reasoning with Reinforcement Learning|[[pdf]](https://arxiv.org/pdf/2609.37035)|-|WTI-82K: 82,335 Timed Questions across 4,812 Causally Aligned Multi-Question Streaming Trajectories|
 |2026.09|OmniVChat: Synthesizing, Benchmarking, and Training for Native Audio-Visual Dialogue|[[pdf]](https://arxiv.org/pdf/2609.21465)|-|OmniVChat-Studio Synthesizes Single- and Multi-Turn Native Audio-Visual Dialogues; OmniVChat-RL Targets Correctness, Efficiency & Style|
